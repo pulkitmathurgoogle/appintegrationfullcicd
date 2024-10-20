@@ -4,4 +4,4 @@ This repository demonstrates CICD for [Application Integration](https://cloud.go
 
 ---
 ## Support
-This is not an officially supported Google product
+This is not an officially supported Google product.
