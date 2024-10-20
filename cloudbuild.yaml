@@ -64,7 +64,7 @@ steps:
   args: ['run', 'integration-test']
 
 substitutions:
-  #_LOCATION: "us-west1"
+  _LOCATION: "europe-west4"
   _BUILD_INTEGRATION_HOST: "${_LOCATION}-integrations.googleapis.com"
   _WAIT: "true"
 
