@@ -1,6 +1,6 @@
 # app-integration-cicd
 
-This repository demonstrate CICD for [Application Integration](https://cloud.google.com/application-integration/docs) and [Integration Connectors](https://cloud.google.com/integration-connectors/docs)
+This repository demonstrates CICD for [Application Integration](https://cloud.google.com/application-integration/docs) and [Integration Connectors](https://cloud.google.com/integration-connectors/docs)
 
 ---
 ## Support
